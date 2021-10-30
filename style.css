@@ -3,6 +3,7 @@ section {
 }
 
 .intro {
+  padding-top: 18%;
   text-align: center;
   background-color: #c7ccc5;
 }
@@ -19,6 +20,7 @@ section {
 .daftar {
   color: white;
   background-color: #6683a5;
+  margin-top: auto;
 }
 
 footer {
